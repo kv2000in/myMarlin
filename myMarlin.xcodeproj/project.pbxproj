@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2A050266265FCDF200C4D89D /* Marlin-2.0.x-currently-installed */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Marlin-2.0.x-currently-installed"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2A05025F265FCDC300C4D89D = {
 			isa = PBXGroup;
 			children = (
+				2A050266265FCDF200C4D89D /* Marlin-2.0.x-currently-installed */,
 			);
 			sourceTree = "<group>";
 		};
